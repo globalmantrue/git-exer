@@ -5,5 +5,5 @@
 - stash 실습
 
 
-fast-farward exer
+fast-farward exer / conflict test
 3-way other
